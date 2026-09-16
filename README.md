@@ -1,0 +1,2 @@
+# MultiAgentProgram
+参考beautiful-go项目的自建多agent项目，旨在练习多agent
