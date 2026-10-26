@@ -1,0 +1,3 @@
+{"id":"baseline-3p","topic":"新能源汽车行业趋势","tags":["smoke"],"expect":{"must_have_kinds":["research","outline","design","render"],"min_findings":1,"pages":3,"max_steps":12,"max_tokens":20000,"must_contain":["行业现状"]}}
+{"id":"expect-mismatch","topic":"新能源汽车行业趋势","tags":["self-test"],"expect":{"pages":5,"max_steps":12}}
+{"id":"short-topic","topic":"AI","tags":["smoke"],"expect":{"must_have_kinds":["outline","render"],"pages":3,"max_steps":12,"must_not_contain":["panic","undefined"]}}
